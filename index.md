@@ -8,7 +8,7 @@ Greetings!
 
 I received my B.Sc. in Optoelectronic Information Science and Engineering, with a minor in Information and Computing Science, from [Zhejiang University of Technology](https://www.zjut.edu.cn/) in 2024.
 
-I was a Research Intern at [Systems & Networking Research Group, Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/).
+I was an exchange student at [Department of Physics University of California, Berkeley](https://physics.berkeley.edu/).
 
 I also did an exchange-study in Japan for one year during my undergrad at [The University of Electro-Communications, Tokyo](https://www.uec.ac.jp/eng/) where I was supervised by [Prof. Hiroki Saito](http://hs.pc.uec.ac.jp/saito/index-e.html) at [UEC Saito Lab](http://hs.pc.uec.ac.jp/index.html).
 
