@@ -6,18 +6,18 @@ layout: homepage
 
 Greetings! 
 
-I have received my B.Sc in Applied Mathematics at [Zhejiang University of Technology](https://www.zjut.edu.cn/) in 2024.
+I received my B.Sc. in Optoelectronic Information Science and Engineering, with a minor in Information and Computing Science, from [Zhejiang University of Technology](https://www.zjut.edu.cn/) in 2024.
 
 I was a Research Intern at [Systems & Networking Research Group, Microsoft Research Asia](https://www.microsoft.com/en-us/research/group/systems-and-networking-research-group-asia/).
 
-I also did an exchange-study in Japan for one year during my undergrad at [The University of Electro-Communications, Tokyo](https://www.uec.ac.jp/eng/) where I was supervised by [Prof. Hiroki Saito](https://www.uec.ac.jp/eng/research/introduction/opal-ring/0006341.html) at [UEC Saito Lab](http://hs.pc.uec.ac.jp/index.html).
+I also did an exchange-study in Japan for one year during my undergrad at [The University of Electro-Communications, Tokyo](https://www.uec.ac.jp/eng/) where I was supervised by [Prof. Hiroki Saito](http://hs.pc.uec.ac.jp/saito/index-e.html) at [UEC Saito Lab](http://hs.pc.uec.ac.jp/index.html).
 
 ## Research Interests
 
-- **Systems for ML:** data management for ML, distributed ML systems, HPC for ML
-- **System-ML Co-design:** new ML paradigms efficient with hardware
+- **Bose-Einstein Condendation:** Quantum droplets, Supersolid
+- **Atom Interferometer:** Atom Gravimeter
 
-## News
+## Research Experience
 
 - **[Apr. 2024]** I will present at AIOps workshop of ASPLOS 2024 in San Diego!
 
