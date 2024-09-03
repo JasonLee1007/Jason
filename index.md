@@ -16,6 +16,7 @@ Additionally, I spent a year as an exchange student at [The University of Electr
 
 - **Bose-Einstein Condendation:** Quantum droplets, Supersolid
 - **Atom Interferometer:** Atom Gravimeter
+- **Brain Computer Interface:** Electroencephalic Robotic Arm
 
 ## Research Experience
 
@@ -23,7 +24,6 @@ Additionally, I spent a year as an exchange student at [The University of Electr
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/services.md %}
 
 
 
