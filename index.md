@@ -18,7 +18,7 @@ Additionally, I spent a year as an exchange student at [The University of Electr
 - **Atom Interferometer:** Atom Gravimeter
 - **Brain Computer Interface:** Electroencephalic Robotic Arm
 
-{% include Research Experience.md %}
+{% _includes/Research Experience.md %}
 
 
 
