@@ -19,21 +19,11 @@ Additionally, I spent a year as an exchange student at [The University of Electr
 
 ## Research Experience
 
-- **[Apr. 2024]** I will present at AIOps workshop of ASPLOS 2024 in San Diego!
+
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
 
-## Misc.
 
-Actually you can write (or pronounce) my name in many different ways besides "Tianle Zhong":
-
-* 钟天乐 (My legal name in Simplified Chinese)
-
-* 鐘天樂 (Traditional Chinese)
-
-* Shou, Tenraku (Japanese Kanji pronunciation)
-
-* Chung, Tin-lok (Wade-Giles romanization)
 
