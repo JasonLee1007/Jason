@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-Greetings! 
+Greetings!
 
 I received my B.Sc. in Optoelectronic Information Science and Engineering, with a minor in Information and Computing Science, from [Zhejiang University of Technology](https://www.zjut.edu.cn/) in 2024.
 
-I was an exchange student at [Department of Physics University of California, Berkeley](https://physics.berkeley.edu/).
+During my undergraduate studies, I participated in an exchange program at the [Department of Physics, University of California, Berkeley](https://physics.berkeley.edu/), USA.
 
-I also did an exchange-study in Japan for one year during my undergrad at [The University of Electro-Communications, Tokyo](https://www.uec.ac.jp/eng/) where I was supervised by [Prof. Hiroki Saito](http://hs.pc.uec.ac.jp/saito/index-e.html) at [UEC Saito Lab](http://hs.pc.uec.ac.jp/index.html).
+Additionally, I spent a year as an exchange student at [The University of Electro-Communications, Tokyo](https://www.uec.ac.jp/eng/), where I conducted research under the supervision of [Prof. Hiroki Saito](http://hs.pc.uec.ac.jp/saito/index-e.html) at the [UEC Saito Lab](http://hs.pc.uec.ac.jp/index.html).
 
 ## Research Interests
 
