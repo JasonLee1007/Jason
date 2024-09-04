@@ -4,7 +4,7 @@
   <h2>Research Experience</h2>
 
   <div class="research-item" style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <img src="{{ site.baseurl }}/assets/img/quantum_droplets.png" alt="Two-dimensional quantum droplet probability distribution" style="width: 200px; height: auto; margin-right: 30px;">
+    <img src="{{ site.baseurl }}/assets/img/quantum_droplets.png" alt="Two-dimensional quantum droplet probability distribution" style="width: 500px; height: auto; margin-right: 30px;">
     <div style="flex: 1;">
       <h3>Formation of Two-Dimensional Quantum Droplets</h3>
       <p><strong>Research Advisor:</strong> Professor Hiroki Saito</p>
@@ -14,7 +14,7 @@
   </div>
 
   <div class="research-item" style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <img src="/assets/img/Atomic.png" alt="Process of Atomic Free Fall" style="width: 200px; height: auto; margin-right: 30px;">
+    <img src="{{ site.baseurl }}/assets/img/Atomic.png" alt="Process of Atomic Free Fall" style="width: 200px; height: auto; margin-right: 30px;">
     <div style="flex: 1;">
       <h3>Measurement of Gravitational Acceleration Based on Cold Atom Interference</h3>
       <p><strong>Research Advisor:</strong> Professor Qiang Lin</p>
@@ -24,7 +24,7 @@
   </div>
 
   <div class="research-item" style="display: flex; align-items: flex-start;">
-    <img src="/assets/img/Process of Atomic Free Fall.png" alt="Research Image 3" style="width: 200px; height: auto; margin-right: 30px;">
+    <img src="{{ site.baseurl }}/assets/img/Process of Atomic Free Fall.png" alt="Research Image 3" style="width: 200px; height: auto; margin-right: 30px;">
     <div style="flex: 1;">
       <h3>Motor Imagery Control of an Electroencephalographic Robotic Arm</h3>
       <p><strong>Research Advisor:</strong> Associate Professor Dezhao Li</p>
