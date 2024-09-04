@@ -20,6 +20,9 @@ Additionally, I spent a year as an exchange student at [The University of Electr
 
 {% include_relative _includes/Research_Experience.md %}
 
+## Misc.
+
+
 
 
 
