@@ -25,7 +25,7 @@
 
   <div class="research-item">
     <h3>Motor Imagery Control of an Electroencephalographic Robotic Arm</h3>
-    <img src="{{ site.baseurl }}/assets/img/Process of Atomic Free Fall.png" alt="Research Image 3" style="width: 500px; height: auto; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto;">
+    <img src="{{ site.baseurl }}/assets/img/EEG.png" alt="Research Image 3" style="width: 500px; height: auto; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto;">
     <div>
       <p><strong>Research Advisor:</strong> Associate Professor Dezhao Li</p>
       <p><strong>Duration:</strong> July 2021 - June 2022</p>
