@@ -2,7 +2,7 @@
   <h2>Research Experience</h2>
 
   <div class="research-item" style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="/assets/img/Process of Atomic Free Fall.png" alt="Research Image 1" style="width: 150px; height: auto; margin-right: 20px;">
+    <img src="/assets/img/quantum droplets.png" alt="Research Image 1" style="width: 150px; height: auto; margin-right: 20px;">
     <div>
       <h3>Formation of Two-Dimensional Quantum Droplets</h3>
       <p><strong>Research Advisor:</strong> Professor Hiroki Saito</p>
