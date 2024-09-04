@@ -4,9 +4,9 @@
   <h2>Research Experience</h2>
 
   <div class="research-item" style="margin-bottom: 40px;">
+    <h3>Formation of Two-Dimensional Quantum Droplets</h3>
     <img src="{{ site.baseurl }}/assets/img/quantum_droplets.png" alt="Two-dimensional quantum droplet probability distribution" style="width: 500px; height: auto; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto;">
     <div>
-      <h3>Formation of Two-Dimensional Quantum Droplets</h3>
       <p><strong>Research Advisor:</strong> Professor Hiroki Saito</p>
       <p><strong>Duration:</strong> October 2022 - September 2023</p>
       <p>Explored the stability and formation of two-dimensional quantum droplets in ultracold gases, focusing on balancing dipole and contact interactions. The project involved solving the extended Gross-Pitaevskii equation using the pseudospectral method to determine the ground state, crucial for understanding the droplets' density and stability.</p>
