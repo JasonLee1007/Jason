@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/research_experience.css">
+
 <section id="research-experience">
   <h2>Research Experience</h2>
 
