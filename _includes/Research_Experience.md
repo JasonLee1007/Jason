@@ -2,7 +2,7 @@
   <h2>Research Experience</h2>
 
   <div class="research-item" style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="/assets/img/quantum_droplets.png" alt="Research Image 1" style="width: 150px; height: auto; margin-right: 20px;">
+    <img src="/assets/img/quantum_droplets.png" alt="Two-dimensional quantum droplet probability distribution" style="width: 150px; height: auto; margin-right: 20px;">
     <div>
       <h3>Formation of Two-Dimensional Quantum Droplets</h3>
       <p><strong>Research Advisor:</strong> Professor Hiroki Saito</p>
@@ -12,7 +12,7 @@
   </div>
 
   <div class="research-item" style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="/assets/img/Atomic.png" alt="Research Image 2" style="width: 150px; height: auto; margin-right: 20px;">
+    <img src="/assets/img/Atomic.png" alt="Process of Atomic Free Fall" style="width: 150px; height: auto; margin-right: 20px;">
     <div>
       <h3>Measurement of Gravitational Acceleration Based on Cold Atom Interference</h3>
       <p><strong>Research Advisor:</strong> Professor Qiang Lin</p>
