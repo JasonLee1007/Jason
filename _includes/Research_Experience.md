@@ -4,7 +4,7 @@
   <h2>Research Experience</h2>
 
   <div class="research-item" style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <img src="/assets/img/quantum_droplets.png" alt="Two-dimensional quantum droplet probability distribution" style="width: 200px; height: auto; margin-right: 30px;">
+    <img src="{{ site.baseurl }}/assets/img/quantum_droplets.png" alt="Two-dimensional quantum droplet probability distribution" style="width: 200px; height: auto; margin-right: 30px;">
     <div style="flex: 1;">
       <h3>Formation of Two-Dimensional Quantum Droplets</h3>
       <p><strong>Research Advisor:</strong> Professor Hiroki Saito</p>
