@@ -12,7 +12,7 @@
   </div>
 
   <div class="research-item" style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-    <img src="/path/to/your/image2.jpg" alt="Research Image 2" style="width: 150px; height: auto; margin-right: 20px;">
+    <img src="/assets/img/Process of Atomic Free Fall.png" alt="Research Image 2" style="width: 150px; height: auto; margin-right: 20px;">
     <div>
       <h3>Measurement of Gravitational Acceleration Based on Cold Atom Interference</h3>
       <p><strong>Research Advisor:</strong> Professor Qiang Lin</p>
@@ -22,7 +22,7 @@
   </div>
 
   <div class="research-item" style="display: flex; align-items: flex-start;">
-    <img src="/path/to/your/image3.jpg" alt="Research Image 3" style="width: 150px; height: auto; margin-right: 20px;">
+    <img src="/assets/img/Process of Atomic Free Fall.png" alt="Research Image 3" style="width: 150px; height: auto; margin-right: 20px;">
     <div>
       <h3>Motor Imagery Control of an Electroencephalographic Robotic Arm</h3>
       <p><strong>Research Advisor:</strong> Associate Professor Dezhao Li</p>
