@@ -1,16 +1,65 @@
----
-layout: default
-title: Research Experience
----
+/* 文件路径: assets/css/research_experience.css */
 
-<link rel="stylesheet" href="/assets/css/research_experience.css">
+/* 控制研究经历条目的布局 */
+.research-item {
+  display: block; /* 将图片放在文本上方 */
+  margin-bottom: 40px; /* 为每个条目增加间距 */
+  padding: 10px 0; /* 在每个条目周围增加间距 */
+  border-bottom: 1px solid #ddd; /* 增加一个底部边框，用于分隔条目 */
+}
 
-# Research Experience
+/* 控制图片的样式 */
+.research-item img {
+  width: 250px; /* 设置图片宽度 */
+  height: auto; /* 保持图片的宽高比 */
+  display: block; /* 确保图片独占一行 */
+  margin-bottom: 15px; /* 图片和文本之间的间距 */
+  margin-left: auto; /* 图片居中 */
+  margin-right: auto; /* 图片居中 */
+  border-radius: 8px; /* 圆角 */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* 增加阴影效果 */
+}
 
-<div class="research-item">
-  <img src="/assets/img/quantum_droplets.png" alt="Two-dimensional quantum droplet probability distribution">
-  <h3 class="title">Formation of Two-Dimensional Quantum Droplets</h3>
-  <p class="author"><strong>Research Advisor:</strong> Professor Hiroki Saito</p>
-  <p class="duration"><strong>Duration:</strong> October 2022 - September 2023</p>
-  <p>Explored the stability and formation of two-dimensional quantum droplets in ultracold gases...</p>
-</div>
+/* 控制标题和段落的布局 */
+.research-item .title {
+  font-size: 1.6em; /* 控制标题的字体大小 */
+  font-weight: bold;
+  text-align: center; /* 标题居中 */
+  margin-bottom: 10px;
+}
+
+.research-item p {
+  font-size: 1em;
+  line-height: 1.6; /* 增加行高，便于阅读 */
+  margin-bottom: 15px;
+  text-align: justify; /* 文本对齐 */
+}
+
+.research-item .author {
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.research-item .duration {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+/* 控制链接按钮的样式 */
+.research-item .links a {
+  display: inline-block;
+  margin-right: 10px;
+  padding: 5px 10px;
+  background-color: #3498db; /* 按钮背景颜色 */
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-size: 0.9em;
+}
+
+.research-item .links a:hover {
+  background-color: #2980b9; /* 鼠标悬停时按钮变色 */
+}
