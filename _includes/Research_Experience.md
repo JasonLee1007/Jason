@@ -3,9 +3,9 @@
 <section id="research-experience">
   <h2>Research Experience</h2>
 
-  <div class="research-item" style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <img src="{{ site.baseurl }}/assets/img/quantum_droplets.png" alt="Two-dimensional quantum droplet probability distribution" style="width: 500px; height: auto; margin-right: 30px;">
-    <div style="flex: 1;">
+  <div class="research-item" style="margin-bottom: 40px;">
+    <img src="{{ site.baseurl }}/assets/img/quantum_droplets.png" alt="Two-dimensional quantum droplet probability distribution" style="width: 500px; height: auto; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto;">
+    <div>
       <h3>Formation of Two-Dimensional Quantum Droplets</h3>
       <p><strong>Research Advisor:</strong> Professor Hiroki Saito</p>
       <p><strong>Duration:</strong> October 2022 - September 2023</p>
@@ -13,9 +13,9 @@
     </div>
   </div>
 
-  <div class="research-item" style="display: flex; align-items: flex-start; margin-bottom: 40px;">
-    <img src="{{ site.baseurl }}/assets/img/Atomic.png" alt="Process of Atomic Free Fall" style="width: 200px; height: auto; margin-right: 30px;">
-    <div style="flex: 1;">
+  <div class="research-item" style="margin-bottom: 40px;">
+    <img src="{{ site.baseurl }}/assets/img/Atomic.png" alt="Process of Atomic Free Fall" style="width: 500px; height: auto; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto;">
+    <div>
       <h3>Measurement of Gravitational Acceleration Based on Cold Atom Interference</h3>
       <p><strong>Research Advisor:</strong> Professor Qiang Lin</p>
       <p><strong>Duration:</strong> July 2022 - September 2022</p>
@@ -23,9 +23,9 @@
     </div>
   </div>
 
-  <div class="research-item" style="display: flex; align-items: flex-start;">
-    <img src="{{ site.baseurl }}/assets/img/Process of Atomic Free Fall.png" alt="Research Image 3" style="width: 200px; height: auto; margin-right: 30px;">
-    <div style="flex: 1;">
+  <div class="research-item">
+    <img src="{{ site.baseurl }}/assets/img/Process of Atomic Free Fall.png" alt="Research Image 3" style="width: 500px; height: auto; margin-bottom: 20px; display: block; margin-left: auto; margin-right: auto;">
+    <div>
       <h3>Motor Imagery Control of an Electroencephalographic Robotic Arm</h3>
       <p><strong>Research Advisor:</strong> Associate Professor Dezhao Li</p>
       <p><strong>Duration:</strong> July 2021 - June 2022</p>
