@@ -24,8 +24,8 @@ Additionally, I spent a year as an exchange student at [The University of Electr
 I’m a ski enthusiast, and Niseko in Hokkaido is my favorite ski resort. During my first visit, I accidentally ventured into the advanced area and nearly lost contact on the snowy mountain. Thankfully, two kind Japanese gentlemen came to my rescue. I’m forever grateful to them, and I’m determined to conquer Niseko again someday.
 
 <div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <img src="{{ site.baseurl }}/assets/img/Niseko.png" alt="Niseko Resort Photo 1" style="width: 500px; height: auto; display: block;">
-  <img src="{{ site.baseurl }}/assets/img/SKI.png" alt="Niseko Resort Photo 2" style="width: 500px; height: auto; display: block;">
+  <img src="{{ site.baseurl }}/assets/img/Niseko.png" alt="Niseko Resort Photo 1" style="width: 250px; height: auto; display: block;">
+  <img src="{{ site.baseurl }}/assets/img/SKI.png" alt="Niseko Resort Photo 2" style="width: 250px; height: auto; display: block;">
 </div>
 
 
