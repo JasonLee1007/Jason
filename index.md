@@ -20,7 +20,9 @@ Additionally, I spent a year as an exchange student at [The University of Electr
 
 {% include_relative _includes/Research_Experience.md %}
 
-## Misc.
+## Misc
+I’m a ski enthusiast, and Niseko in Hokkaido is my favorite ski resort. During my first visit, I accidentally ventured into the advanced area and nearly lost contact on the snowy mountain. Thankfully, two kind Japanese gentlemen came to my rescue. I’m forever grateful to them, and I’m determined to conquer Niseko again someday.
+
 
 
 
