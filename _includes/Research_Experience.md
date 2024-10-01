@@ -19,7 +19,7 @@
     <div>
       <p><strong>Research Advisor:</strong> Professor Qiang Lin</p>
       <p><strong>Duration:</strong> July 2022 - September 2022</p>
-      <p>Investigated high-precision gravity measurements using cold atom interferometry. The study involved cooling rubidium-87 atoms to sub-microkelvin temperatures, splitting atomic wave packets into coherent paths, and analyzing the resulting interference patterns to accurately measure gravitational acceleration.</p>
+      <p>Investigated high-precision gravity measurements using cold atom interferometry. The study involved cooling rubidium-85 atoms to sub-microkelvin temperatures, splitting atomic wave packets into coherent paths, and analyzing the resulting interference patterns to accurately measure gravitational acceleration.</p>
     </div>
   </div>
 
